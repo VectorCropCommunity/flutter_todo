@@ -1,16 +1,16 @@
-# flutter_todo
+# Flutter Todo App
 
-A new Flutter project.
+This is a simple todo app built using Flutter, with features to manage tasks efficiently.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Create new tasks
+- Mark tasks as done and undone
+- Delete tasks by swiping
+- Organize tasks date-wise
 
-A few resources to get you started if this is your first Flutter project:
+## Plugins Used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [sqflite](https://pub.dev/packages/sqflite): SQLite plugin for Flutter, used for local database storage.
+- [lottie](https://pub.dev/packages/lottie): Lottie is a mobile library for Android and iOS that parses Adobe After Effects animations exported as JSON with bodymovin and renders them natively on mobile!
+- [getx](https://pub.dev/packages/get): GetX is an extra-light and powerful solution for Flutter. It combines high-performance state management, intelligent dependency injection, and route management in a practical way.
